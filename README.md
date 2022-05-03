@@ -7,5 +7,5 @@ Documentos com alguns comandos comuns e úteis para quem está aprendendo ambas 
 
 
 ### Links úteis
-[Sintaxe básica Markdown](https://www.markdownguide.org/cheat-sheet/)
+[Sintaxe básica Markdown](https://www.markdownguide.org/cheat-sheet/) <br/>
 [Download Git](https://git-scm.com/downloads)
