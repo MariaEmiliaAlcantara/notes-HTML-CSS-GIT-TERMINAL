@@ -1,8 +1,9 @@
 # Desafio de Projeto sobre Git/GitHub da Dio
 Repositório criado para o desafio de projeto
 
-## Anotações iniciais sobre HTML e CSS
-Documentos com alguns comandos comuns e úteis para quem está aprendendo ambas ferramentas
+
+## Anotações iniciais sobre HTML, CSS e Git Bash / Git
+Documentos com alguns comandos comuns e úteis para quem está aprendendo estas ferramentas
 
 
 
