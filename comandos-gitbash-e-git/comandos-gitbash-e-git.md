@@ -2,6 +2,7 @@
 
 ### Listar
  - ls
+ - ls -a (pastas ocultas)
 
 ### Mudar diretório
  - cd NomePasta
@@ -43,7 +44,7 @@
  - git add
 
 ### Commit das Alterações
- - git commit
+ - git commit -m
 
 ### Levar para GitHub
  - git push origin main/master
