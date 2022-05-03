@@ -6,12 +6,12 @@
  - Empty TAG
 
 ### Criar Página
-##### <html> enter </html>
+##### < html > enter < /html >
  - Segundo item sempre
  - TAG
 
 ### Head
-##### <head> enter </head>
+##### < head > enter < /head >
  - Informação da Webpage
  - Antes de <body>
  - TAG
