@@ -21,3 +21,9 @@
 ### Clonar um repositório do GitHub
  - git clone https-do-repositorio
  - git clone ssh-do-repositorio
+
+### Ver diferenças entre commits
+ - git diff NomeArquivo.extensao
+
+### Restaurar Arquivo para último commit
+ - git checkout NomeArquivo.extensao
