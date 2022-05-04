@@ -1,56 +1,58 @@
-# Comandos Git Bash
+# Comandos Terminal Linux
 
-### Listar
+### Listar Arquivos e Diretórios
  - ls
- - ls -a (pastas ocultas)
+ - ls -a (diretórios ocultos)
 
-### Mudar diretório
- - cd NomePasta
- - cd ../ (volta pasta anterior)
+### Mudar Diretório
+ - cd NomeDiretorio
+ - cd ../ (volta para diretório anterior)
 
-### Criar Pasta
- - mkdir NomePasta
+### Criar Diretório
+ - mkdir NomeDiretorio
 
 ### Criar Arquivo
  - touch NomeArquivo.extensão
 
-### Deletar Pasta
- - rm -r NomePasta
+### Deletar Diretório
+ - rm -r NomeDiretorio
 
 ### Deletar Arquivo
  - rm NomeArquivo.extensão
 
-### Mover pasta
- - mv NomeArquivo/Pasta NomePastaNova
+### Mover Arquivos e Diretórios
+ - mv NomeArquivo/Diretorio NomeDiretorioNovo
 
-### Mudar extensão arquivo
+### Renomear
  - mv NomeArquivo.txt NomeArquivo.md
 
 ### Limpar a tela
- - Ctrl + L
+ - Ctrl + l
+ - clear
 
 ### Autocompletar
  - Apertar tecla TAB
 
 # Comandos Git
 
-### Iniciar Git na Pasta
+### Iniciar Git no Diretório
  - git init
 
-### Status das Pastas e Arquivos
+### Status dos Diretórios e Arquivos
  - git status
 
-### Adicionar Alterações
+### Adicionar Alterações para "Stage"
  - git add
 
 ### Commit das Alterações
- - git commit -m
+ - git commit -m "mensagem do commit"
 
-### Levar para GitHub
+### Enviar para GitHub novas alterações do repositório local
  - git push origin main/master
 
-### Pegar versão mais recente do GitHub (erro no push)
+### Puxar versão mais recente do repositório remoto do GitHub
  - git pull
 
-### Clonar versão do GitHub
- - git clone https-do-arquivo-pegar-no-github
+### Clonar um repositório do GitHub
+ - git clone https-do-repositorio
+ - git clone ssh-do-repositorio
